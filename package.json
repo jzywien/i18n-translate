@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jzywien/i18n-translate#readme",
   "dependencies": {
+    "@google-cloud/translate": "^3.0.1",
     "dotenv": "^7.0.0"
   }
 }
